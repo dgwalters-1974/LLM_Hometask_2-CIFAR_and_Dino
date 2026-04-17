@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow the two submission notebooks
+!Gareth_Walters-homework_CIFAR10.ipynb
+!Gareth_Walters-RNN_LM_homework.ipynb
+
+# Keep this gitignore
+!.gitignore
